@@ -1,0 +1,5 @@
+BookCrud\CrudApp\model\Book.class
+BookCrud\CrudApp\repository\BookRepository.class
+BookCrud\CrudApp\CrudAppApplication.class
+BookCrud\CrudApp\service\BookService.class
+BookCrud\CrudApp\controller\BookController.class
